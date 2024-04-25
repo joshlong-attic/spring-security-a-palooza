@@ -1,2 +1,2 @@
 
-curl https://localhost:8443/hello  --insecure -u jlong:password -v
+curl -k https://localhost:8443/hello   -u jlong:password -v
