@@ -4,12 +4,10 @@ NB: there are sometimes `readme.md` files in each subfolder, too. be sure to con
 
 ## Agenda
 
-* spring security basics
-   * introduce `AuthenticationManager` and `UserDetailsManager` in particular 
-   * for authentication. introduce authorization support. 
+* `basics`
 * `ssl`
-- `passkeys`
-- spring auth server
+* `passkeys`
+* `auth-server`
 
 ## resources
 * [the Spring Security Livelessons that Rob and I did years ago](https://github.com/spring-security-livelessons). not sure how relevant that is in the modern world.
